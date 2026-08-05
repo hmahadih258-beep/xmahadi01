@@ -1,0 +1,6 @@
+{
+  "name": "Amar Khata - Customer Ledger",
+  "description": "Offline Android Customer Ledger application with Dashboard, Customer Management, Detailed Transactions, Reports & Analytics, Local Backup, PIN Lock, and Bangla/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
